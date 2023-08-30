@@ -9,7 +9,8 @@ app = FastAPI()
 
 # 定義 CORS（跨來源資源共用）的來源
 origins = [
-    "https://temp-questions-570025b2c58b.herokuapp.com"
+    "https://temp-questions-570025b2c58b.herokuapp.com",
+    "https://fasiapi-python-a8fc75911008.herokuapp.com/"
 ]
 
 # 將 CORS 中間件添加到 FastAPI 應用
