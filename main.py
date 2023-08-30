@@ -11,7 +11,7 @@ app = FastAPI()
 origins = [
     "http://localhost:3000",
     "http://localhost",
-    "https://temp-questions-570025b2c58b.herokuapp.com",
+    "https://git.heroku.com/temp-questions.git",
 ]
 
 # 將 CORS 中間件添加到 FastAPI 應用
