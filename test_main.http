@@ -12,3 +12,7 @@ Accept: application/json
 GET https://fasiapi-python-a8fc75911008.herokuapp.com/
 Accept: application/json
 ###
+
+GET https://fasiapi-python-a8fc75911008.herokuapp.com
+Accept: application/json
+###
